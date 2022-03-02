@@ -1,0 +1,24 @@
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Datos\bin\Debug\Datos.dll
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Datos\bin\Debug\Datos.pdb
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Datos\obj\Debug\Datos.dll
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Datos\obj\Debug\Datos.pdb
+F:\Proyecto Gokubos\Datos\bin\Debug\Datos.dll
+F:\Proyecto Gokubos\Datos\bin\Debug\Datos.pdb
+F:\Proyecto Gokubos\Datos\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Gokubos\Datos\obj\Debug\Datos.dll
+F:\Proyecto Gokubos\Datos\obj\Debug\Datos.pdb
+F:\Gokubos\Datos\bin\Debug\Datos.dll
+F:\Gokubos\Datos\bin\Debug\Datos.pdb
+F:\Gokubos\Datos\obj\Debug\ResolveAssemblyReference.cache
+F:\Gokubos\Datos\obj\Debug\Datos.Properties.Resources.resources
+F:\Gokubos\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+F:\Gokubos\Datos\obj\Debug\Datos.dll
+F:\Gokubos\Datos\obj\Debug\Datos.pdb
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Datos\bin\Debug\Datos.dll
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Datos\bin\Debug\Datos.pdb
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Datos\obj\Debug\Datos.dll
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Datos\obj\Debug\Datos.pdb

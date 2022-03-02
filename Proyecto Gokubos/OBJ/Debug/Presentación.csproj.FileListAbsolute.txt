@@ -1,0 +1,156 @@
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.exe
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.pdb
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Login.resources
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Properties.Resources.resources
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principal.resources
+F:\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+F:\Projects\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+F:\Proyecto Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.exe
+F:\Proyecto Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.pdb
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Login.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principal.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Properties.Resources.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Registro.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Recuperacion.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Algoritmos.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Avanzado.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cronometro.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Intermedio.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principiante.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.exe
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.pdb
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Algoritmos.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Avanzado.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cronometro.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Intermedio.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Login.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principal.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principiante.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Properties.Resources.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Recuperacion.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Registro.resources
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\felip\Desktop\memoria del sena\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Form2.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+E:\Proyecto Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.exe
+E:\Proyecto Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.pdb
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Algoritmos.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Avanzado.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cronometro.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Form2.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Intermedio.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Login.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principal.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principiante.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Properties.Resources.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Recuperacion.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Registro.resources
+E:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Notacion.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cargando.resources
+G:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+G:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_Caso_1.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Hola_soy_Goku.resources
+F:\Proyecto Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Prueba.resources
+D:\xROYEC~1\Proyecto Gokubos\OBJ\Debug\Proyecto Gokubos.exe
+D:\xROYEC~1\Proyecto Gokubos\OBJ\Debug\Proyecto Gokubos.pdb
+D:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+D:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+F:\Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.exe
+F:\Gokubos\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.pdb
+F:\Gokubos\Proyecto Gokubos\obj\Debug\ResolveAssemblyReference.cache
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Algoritmos.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Avanzado.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cronometro.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cargando.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_Caso_1.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Hola_soy_Goku.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Intermedio.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Login.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Notacion.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principal.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principiante.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Properties.Resources.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Recuperacion.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Registro.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_cruz.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Beneficios.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Consejos.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.El_Cubo_Rubik.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Corona.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Cruz_superior_O.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Cruz_Superior_P.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Doble_Corona.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Esquinas_O.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Esquinas_P.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Partes_del_cubo.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_2.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_3.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_4.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_5.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_6.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_7.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_8.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_9.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_10.resources
+F:\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.La_Cruz.resources
+C:\Users\ALUMNO\Desktop\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+C:\Users\ALUMNO\Desktop\Gokubos\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.exe
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto Gokubos.pdb
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.exe
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\bin\Debug\Proyecto Gokubos.pdb
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_10.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_4.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Algoritmos.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Avanzado.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Beneficios.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Consejos.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cronometro.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cargando.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_1.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_3.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_2.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_5.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_6.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_7.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_8.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Cruz_caso_9.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.El_Cubo_Rubik.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Hola_soy_Goku.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Intermedio.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Corona.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Cruz_superior_O.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Cruz_Superior_P.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Cruz.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.La_Cruz.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Doble_Corona.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Esquinas_O.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Introduccion_Esquinas_P.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Login.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Notacion.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Partes_del_cubo.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principal.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Principiante.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Properties.Resources.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Recuperacion.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Proyecto_Gokubos.Registro.resources
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Proyecto Gokubos\obj\Debug\Presentación.csproj.GenerateResource.Cache

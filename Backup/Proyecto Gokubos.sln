@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentación", "Proyecto Gokubos\Presentación.csproj", "{281F6870-B6E2-4C98-9DAD-79304BC591A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{37B117D9-F012-4BAD-9D7E-8863CC967DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{AC8E9E74-E749-45B0-8856-D0686F8CF6F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281F6870-B6E2-4C98-9DAD-79304BC591A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281F6870-B6E2-4C98-9DAD-79304BC591A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281F6870-B6E2-4C98-9DAD-79304BC591A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281F6870-B6E2-4C98-9DAD-79304BC591A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B117D9-F012-4BAD-9D7E-8863CC967DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B117D9-F012-4BAD-9D7E-8863CC967DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B117D9-F012-4BAD-9D7E-8863CC967DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B117D9-F012-4BAD-9D7E-8863CC967DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8E9E74-E749-45B0-8856-D0686F8CF6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8E9E74-E749-45B0-8856-D0686F8CF6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8E9E74-E749-45B0-8856-D0686F8CF6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8E9E74-E749-45B0-8856-D0686F8CF6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

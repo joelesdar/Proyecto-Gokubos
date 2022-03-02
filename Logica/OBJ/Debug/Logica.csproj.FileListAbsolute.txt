@@ -1,0 +1,15 @@
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Logica\bin\Debug\Logica.dll
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Logica\bin\Debug\Logica.pdb
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Logica\obj\Debug\Logica.dll
+C:\Users\ALUMNO\Documents\Visual Studio 2008\Projects\Proyecto Gokubos\Logica\obj\Debug\Logica.pdb
+F:\Proyecto Gokubos\Logica\bin\Debug\Logica.dll
+F:\Proyecto Gokubos\Logica\bin\Debug\Logica.pdb
+F:\Proyecto Gokubos\Logica\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto Gokubos\Logica\obj\Debug\Logica.dll
+F:\Proyecto Gokubos\Logica\obj\Debug\Logica.pdb
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Logica\bin\Debug\Logica.dll
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Logica\bin\Debug\Logica.pdb
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Logica\obj\Debug\Logica.dll
+C:\Users\Link\Documents\Proyectos\Gokubos v 0.5\Logica\obj\Debug\Logica.pdb

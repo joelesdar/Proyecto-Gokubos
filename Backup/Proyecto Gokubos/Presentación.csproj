@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{281F6870-B6E2-4C98-9DAD-79304BC591A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyecto_Gokubos</RootNamespace>
+    <AssemblyName>Proyecto Gokubos</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>1474263123_Dragon_Ball.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Principiante\Cruz\Introduccion-Cruz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Introduccion-Cruz.Designer.cs">
+      <DependentUpon>Introduccion-Cruz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 10.Designer.cs">
+      <DependentUpon>Cruz caso 10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 7.Designer.cs">
+      <DependentUpon>Cruz caso 7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 8.Designer.cs">
+      <DependentUpon>Cruz caso 8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 9.Designer.cs">
+      <DependentUpon>Cruz caso 9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 2.Designer.cs">
+      <DependentUpon>Cruz caso 2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 5.Designer.cs">
+      <DependentUpon>Cruz caso 5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 6.Designer.cs">
+      <DependentUpon>Cruz caso 6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 4.Designer.cs">
+      <DependentUpon>Cruz caso 4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Algoritmos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Algoritmos.Designer.cs">
+      <DependentUpon>Algoritmos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Avanzado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Avanzado.Designer.cs">
+      <DependentUpon>Avanzado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Beneficios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Beneficios.Designer.cs">
+      <DependentUpon>Beneficios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Consejos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Consejos.Designer.cs">
+      <DependentUpon>Consejos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Cronometro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Cronometro.Designer.cs">
+      <DependentUpon>Cronometro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Cargando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Cargando.Designer.cs">
+      <DependentUpon>Cargando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 1.Designer.cs">
+      <DependentUpon>Cruz caso 1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\Cruz caso 3.Designer.cs">
+      <DependentUpon>Cruz caso 3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introducción\El Cubo Rubik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introducción\El Cubo Rubik.Designer.cs">
+      <DependentUpon>El Cubo Rubik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Hola soy Goku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Hola soy Goku.Designer.cs">
+      <DependentUpon>Hola soy Goku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Intermedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Intermedio.Designer.cs">
+      <DependentUpon>Intermedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Corona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Corona.Designer.cs">
+      <DependentUpon>Introduccion-Corona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Cruz superior O.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Cruz superior O.Designer.cs">
+      <DependentUpon>Introduccion-Cruz superior O.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Cruz Superior P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Cruz Superior P.Designer.cs">
+      <DependentUpon>Introduccion-Cruz Superior P.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Cruz\La Cruz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Cruz\La Cruz.Designer.cs">
+      <DependentUpon>La Cruz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Doble Corona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Doble Corona.Designer.cs">
+      <DependentUpon>Introduccion-Doble Corona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Esquinas O.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Esquinas O.Designer.cs">
+      <DependentUpon>Introduccion-Esquinas O.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Esquinas P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introduccion-Esquinas P.Designer.cs">
+      <DependentUpon>Introduccion-Esquinas P.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Notacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Notacion.Designer.cs">
+      <DependentUpon>Notacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Partes del cubo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Introducción\Partes del cubo.Designer.cs">
+      <DependentUpon>Partes del cubo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principiante\Principiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principiante\Principiante.Designer.cs">
+      <DependentUpon>Principiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 10.resx">
+      <DependentUpon>Cruz caso 10.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 4.resx">
+      <DependentUpon>Cruz caso 4.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Algoritmos.resx">
+      <DependentUpon>Algoritmos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Avanzado.resx">
+      <DependentUpon>Avanzado.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introducción\Beneficios.resx">
+      <DependentUpon>Beneficios.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introducción\Consejos.resx">
+      <DependentUpon>Consejos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Cronometro.resx">
+      <DependentUpon>Cronometro.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Cargando.resx">
+      <DependentUpon>Cargando.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 1.resx">
+      <DependentUpon>Cruz caso 1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 3.resx">
+      <DependentUpon>Cruz caso 3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 2.resx">
+      <DependentUpon>Cruz caso 2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 5.resx">
+      <DependentUpon>Cruz caso 5.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 6.resx">
+      <DependentUpon>Cruz caso 6.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 7.resx">
+      <DependentUpon>Cruz caso 7.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 8.resx">
+      <DependentUpon>Cruz caso 8.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Cruz caso 9.resx">
+      <DependentUpon>Cruz caso 9.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introducción\El Cubo Rubik.resx">
+      <DependentUpon>El Cubo Rubik.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introducción\Hola soy Goku.resx">
+      <DependentUpon>Hola soy Goku.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Intermedio.resx">
+      <DependentUpon>Intermedio.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introduccion-Corona.resx">
+      <DependentUpon>Introduccion-Corona.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introduccion-Cruz superior O.resx">
+      <DependentUpon>Introduccion-Cruz superior O.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introduccion-Cruz Superior P.resx">
+      <DependentUpon>Introduccion-Cruz Superior P.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\Introduccion-Cruz.resx">
+      <DependentUpon>Introduccion-Cruz.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Cruz\La Cruz.resx">
+      <DependentUpon>La Cruz.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introduccion-Doble Corona.resx">
+      <DependentUpon>Introduccion-Doble Corona.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introduccion-Esquinas O.resx">
+      <DependentUpon>Introduccion-Esquinas O.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introduccion-Esquinas P.resx">
+      <DependentUpon>Introduccion-Esquinas P.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introducción\Notacion.resx">
+      <DependentUpon>Notacion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Introducción\Partes del cubo.resx">
+      <DependentUpon>Partes del cubo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principiante\Principiante.resx">
+      <DependentUpon>Principiante.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Recuperacion.resx">
+      <DependentUpon>Recuperacion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Principales\Recuperacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Recuperacion.Designer.cs">
+      <DependentUpon>Recuperacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validacion.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono.ico" />
+    <None Include="Resources\1474263123_Dragon_Ball.ico" />
+    <None Include="Resources\SCOUTER.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1474263123_Dragon_Ball.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
